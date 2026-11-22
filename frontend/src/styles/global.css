@@ -131,4 +131,6 @@
 
 body {
   background-color: #d4d5cc;
+   margin: 0;
+  padding: 24px;
 }
